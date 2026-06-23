@@ -1,2 +1,9 @@
-Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"PCB","Circuit Board",1,9.81,"https://jlcpcb.com/","JLCPCB"
+Reference,Description,Manufacturer,MPN,Quantity,Supplier,Unit Price,Currency,Product Link,Extended Price
+C1,0.01 µF Ceramic Capacitor,Murata,GRM188R71H103KA01D,1,Murata,0.10,USD,https://www.murata.com/en-global/products/productdetail?partno=GRM188R71H103KA01D,0.1
+C2,1 µF Ceramic Capacitor,Murata,GRM188R60J105KA01D,1,Murata,0.15,USD,https://www.murata.com/en-global/products/productdetail?partno=GRM188R60J105KA01D,0.15
+D1–D10,5 mm Red LED,Kingbright,WP7113ID,10,Kingbright,0.18,USD,https://www.kingbrightusa.com/product.asp?catalog_name=LED&product_id=WP7113ID,1.7999999999999998
+R1,1 kΩ 1/4W Resistor,Yageo,CFR-25JB-52-1K,1,Yageo,0.02,USD,https://www.yageo.com/en/Product/Search?partNumber=CFR-25JB-52-1K,0.02
+R2,470 Ω 1/4W Resistor,Yageo,CFR-25JB-52-470R,1,Yageo,0.02,USD,https://www.yageo.com/en/Product/Search?partNumber=CFR-25JB-52-470R,0.02
+RV1,50 kΩ Trimmer Potentiometer,Bourns,3362P-1-503LF,1,Bourns,1.25,USD,https://www.bourns.com/products/trimpot-trimming-potentiometers/product/3362,1.25
+U1,NE555P Timer IC,Texas Instruments,NE555P,1,Texas Instruments,0.60,USD,https://www.ti.com/product/NE555,0.6
+U2,CD4017B Decade Counter,Texas Instruments,CD4017B,1,Texas Instruments,0.75,USD,https://www.ti.com/product/CD4017B,0.75
