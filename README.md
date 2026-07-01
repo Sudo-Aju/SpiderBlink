@@ -72,6 +72,11 @@ I wanted to dvelve deeper into embedded electronics, so thought this might be th
 
 # Features
 
+- Heartbeat: An NE555 timer generates the clock signal.
+- Speed Control: A 50kΩ potentiometer adjusts the LED flashing speed.
+- Sequencer: A CD4017 decade counter cycles the signal through 10 steps.
+- Rotating Effect: 10 LEDs arranged in a circular pattern for a rotating effect.
+
 ---
 
 # PCB Design
@@ -83,6 +88,29 @@ The PCB was designed with the reference of a piderweb, more specifically Spiderm
 
 ## Schematic
 <img src="./Gallery/SCH.png">
+
+---
+
+# Current Status
+
+- [X] Initial Concept
+- [X] Schematic Design
+- [X] PCB Design
+- [X] Hardware Validation
+- [ ] Functional Testing
+- [ ] Community Evaluation 
+
+---
+
+# Repository Structure
+
+```bash
+Elfin/
+├── PCB/
+├── BOM.csv
+├── Gallery/
+└── README.md
+```
 
 ---
 
