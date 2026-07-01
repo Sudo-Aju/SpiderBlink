@@ -28,6 +28,8 @@ A Tiny LED Blinker in Shape of a Spiderweb
 
 ---
 
+# Gallery
+
 <div align="center">
 
 <img src="./Gallery/render2.png"
