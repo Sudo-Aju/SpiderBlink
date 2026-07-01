@@ -28,6 +28,22 @@ A Tiny LED Blinker in Shape of a Spiderweb
 
 ---
 
+<div align="center">
+
+<img src="./Gallery/render2.png"
+
+</div>
+
+---
+
+# Zine
+
+<div align="center">
+<img src="./Gallery/Zine.png"
+</div>
+
+---
+
 ## Bill of Materials
 
 |Reference|Description                     |Manufacturer     |MPN               |Quantity|Supplier         |Unit Price (USD)|Extended Price (USD)|Product Link                                                                     |
