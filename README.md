@@ -32,7 +32,7 @@ A Tiny LED Blinker in Shape of a Spiderweb
 
 <div align="center">
 
-<img src="./Gallery/render2.png"
+<img src="./Gallery/render2.png">
 
 </div>
 
@@ -43,6 +43,12 @@ A Tiny LED Blinker in Shape of a Spiderweb
 <div align="center">
 <img src="./Gallery/Zine.png"
 </div>
+
+---
+
+# Motivation
+
+I wanted to dvelve deeper into embedded electronics, so thought this might be the chance for me to understand more about IC's, Timers and Oscillators
 
 ---
 
@@ -58,4 +64,7 @@ A Tiny LED Blinker in Shape of a Spiderweb
 |RV1      |50 kΩ Trimmer Potentiometer     |Bourns           |3362P-1-503LF     |1       |Bourns           |1.25            |1.25                |https://www.bourns.com/products/trimpot-trimming-potentiometers/product/3362     |
 |U1       |NE555P Timer IC                 |Texas Instruments|NE555P            |1       |Texas Instruments|0.60            |0.60                |https://www.ti.com/product/NE555                                                 |
 |U2       |CD4017B Decade Counter          |Texas Instruments|CD4017B           |1       |Texas Instruments|0.75            |0.75                |https://www.ti.com/product/CD4017B                                               |
+
+# Features
+
 
