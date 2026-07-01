@@ -41,16 +41,19 @@ A Tiny LED Blinker in Shape of a Spiderweb
 # Zine
 
 <div align="center">
-<img src="./Gallery/Zine.png"
+
+<img src="./Gallery/Zine.png">
+
 </div>
 
 ---
 
 # Motivation
 
-I wanted to dvelve deeper into embedded electronics, so thought this might be the chance for me to understand more about IC's, Timers and Oscillators
+I wanted to dvelve deeper into embedded electronics, so thought this might be the chance for me to understand more about ICs, Timers and Oscillators
 
 ---
+
 
 ## Bill of Materials
 
@@ -65,6 +68,54 @@ I wanted to dvelve deeper into embedded electronics, so thought this might be th
 |U1       |NE555P Timer IC                 |Texas Instruments|NE555P            |1       |Texas Instruments|0.60            |0.60                |https://www.ti.com/product/NE555                                                 |
 |U2       |CD4017B Decade Counter          |Texas Instruments|CD4017B           |1       |Texas Instruments|0.75            |0.75                |https://www.ti.com/product/CD4017B                                               |
 
+---
+
 # Features
 
 
+
+---
+
+# Contributing
+
+Contributions, suggestions, and feedback are welcome.
+
+If you'd like to improve Elfin:
+
+```bash
+git clone https://github.com/Sudo-Aju/SpiderBlink.git
+cd Elfin
+```
+
+1. Create a feature branch
+2. Make your changes
+3. Commit your work
+4. Open a pull request
+
+---
+
+# Creator
+
+### Azmeer Pirani
+
+Built with ❤️ for:
+- Embedded Systems
+- PCB Design
+- Open Source Hardware
+- Tiny Things
+
+---
+
+# License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+## SPIDERBLINK
+
+### _Blinks every time it gets the tingle._
+
+</div>
