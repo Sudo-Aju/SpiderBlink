@@ -105,7 +105,7 @@ The PCB was designed with the reference of a piderweb, more specifically Spiderm
 # Repository Structure
 
 ```bash
-Elfin/
+SpiderBlink/
 ├── PCB/
 ├── BOM.csv
 ├── Gallery/
@@ -168,7 +168,7 @@ If you'd like to improve SpiderBlink:
 
 ```bash
 git clone https://github.com/Sudo-Aju/SpiderBlink.git
-cd Elfin
+cd SpiderBlink
 ```
 
 1. Create a feature branch
