@@ -2,11 +2,20 @@
 
 # <img src="./Gallery/Logo.png" alt="swlogo" width="600" />
 
-</div>
-SpiderBlink is a 555 LED chaser board that blinks 10 LEDs in a variable speed sequence using a NE555P timer IC and a CD4017 decade counter. I built this as a beginner PCB project to learn schematic design, PCB routing, and hands-on soldering.
+A Tiny LED Blinker in Shape of a Spiderweb
 
-SPIDEY WEB is blinkning light!
-<img width="800" height="761" alt="Screenshot 2026-03-20 at 15 55 53" src="https://github.com/user-attachments/assets/d9833570-54b9-495a-aec5-faec9e665625" />
+<p>
+<img src="https://img.shields.io/badge/Status-Design%20Ready-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/Open%20Source-Yes-1E88E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/IC-NE555P-FF6D00?style=for-the-badge">
+</p>
+
+### _Blinks every time it gets the tingle._
+
+</div>
+**SpiderBlink** is a 555 LED chaser board that blinks 10 LEDs in a variable speed sequence using a **NE555P** timer IC and a **CD4017** decade counter. I built this as a beginner PCB project to learn schematic design, PCB routing, and hands-on soldering.
+
+---
 
 ## Bill of Materials
 
