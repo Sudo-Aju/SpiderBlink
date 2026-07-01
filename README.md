@@ -114,6 +114,52 @@ Elfin/
 
 ---
 
+# Assemble Guide
+
+## 1. Order the PCB
+
+Navigate to:
+
+```bash
+./PCB/Gerber.zip
+```
+
+Upload the Gerber files to your preferred PCB manufacturer.
+
+---
+
+## 2. Order Components
+
+All required components can be found in:
+
+```bash
+./PCB/BOM.csv
+```
+
+---
+
+## 3. Solder the Components
+
+Recommended assembly should follow a low-profile to high-profile sequence to simplify alignment and reduce rework.
+
+Suggested order:
+
+1. 1/4W Resistors (R1, R2)
+2. Ceramic Capacitors (C1, C2)
+3. NE555P
+4. 5mm LEDs (D1–D10)
+
+---
+
+## 4. Inspect the Board
+
+Before powering:
+- Check for shorts
+- Verify connections
+- Inspect power rails
+
+---
+
 # Contributing
 
 Contributions, suggestions, and feedback are welcome.
