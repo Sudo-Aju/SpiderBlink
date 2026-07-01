@@ -72,7 +72,17 @@ I wanted to dvelve deeper into embedded electronics, so thought this might be th
 
 # Features
 
+---
 
+# PCB Design
+
+The PCB was designed with the reference of a piderweb, more specifically Spiderman
+
+## PCB
+<img src="./Gallery/PCB.png">
+
+## Schematic
+<img src="./Gallery/SCH.png">
 
 ---
 
@@ -80,7 +90,7 @@ I wanted to dvelve deeper into embedded electronics, so thought this might be th
 
 Contributions, suggestions, and feedback are welcome.
 
-If you'd like to improve Elfin:
+If you'd like to improve SpiderBlink:
 
 ```bash
 git clone https://github.com/Sudo-Aju/SpiderBlink.git
