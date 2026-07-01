@@ -1,6 +1,9 @@
-<div align="center">
+<div align="center" style="background-color: white; padding: 20px;">
+  <img src="Logo.svg" alt="swlogo" width="200" />
+</div>
 
-# <img src="./Gallery/Logo.svg.png" alt="swlogo" width="200" />
+
+# 
 
 SpiderBlink is a 555 LED chaser board that blinks 10 LEDs in a variable speed sequence using a NE555P timer IC and a CD4017 decade counter. I built this as a beginner PCB project to learn schematic design, PCB routing, and hands-on soldering.
 
